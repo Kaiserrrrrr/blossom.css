@@ -49,5 +49,5 @@ blossom builds upon the minimalist philosophy of sakura but adds modern refineme
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
 
-## License
+## 📜 License
 &copy; Kaiserrrrrr 2026. Code released under the [MIT license](https://github.com/Kaiserrrrrr/blossom/blob/master/LICENSE).
