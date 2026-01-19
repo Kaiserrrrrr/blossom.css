@@ -53,12 +53,7 @@ body {
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   font-family: inherit;
   font-weight: 700;
@@ -95,9 +90,7 @@ p {
   margin-bottom: 2.5rem;
 }
 
-small,
-sub,
-sup {
+small, sub, sup {
   font-size: 75%;
 }
 
@@ -136,10 +129,7 @@ blockquote {
   margin-bottom: 2.5rem;
 }
 
-pre,
-code,
-kbd,
-samp {
+pre, code, kbd, samp {
   background-color: var(--block-bg);
   font-size: 0.9em;
 }
@@ -151,14 +141,12 @@ pre {
   display: block;
 }
 
-code,
-kbd,
-samp {
+code, kbd, samp {
   padding: 0 0.5em;
   white-space: pre-wrap;
 }
 
-pre>code {
+pre > code {
   padding: 0;
   background-color: transparent;
   white-space: pre;
@@ -171,15 +159,12 @@ table {
   margin-bottom: 2rem;
 }
 
-td,
-th {
+td, th {
   padding: 0.5em;
   border-bottom: 1px solid var(--block-bg);
 }
 
-input,
-textarea,
-select {
+input, textarea, select {
   color: var(--text-color);
   background-color: var(--block-bg);
   border: 1px solid var(--block-bg);
@@ -189,18 +174,12 @@ select {
   box-sizing: border-box;
 }
 
-input:focus,
-textarea:focus,
-select:focus {
+input:focus, textarea:focus, select:focus {
   border: 1px solid var(--link-color);
   outline: 0;
 }
 
-.button,
-button,
-input[type=submit],
-input[type=reset],
-input[type=button] {
+.button, button, input[type=submit], input[type=reset], input[type=button] {
   background-color: var(--btn-bg);
   color: var(--btn-text);
   border: 1px solid var(--btn-bg);
@@ -208,15 +187,12 @@ input[type=button] {
   cursor: pointer;
 }
 
-.button:hover,
-button:hover {
+.button:hover, button:hover {
   background-color: var(--link-hover);
   color: var(--btn-text);
 }
 
-label,
-legend,
-fieldset {
+label, legend, fieldset {
   display: block;
   margin-bottom: 0.5rem;
   font-weight: 600;
